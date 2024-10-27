@@ -1,0 +1,25 @@
+# build
+# freertos
+# fsbl
+host-tools
+# isp_tuning
+# linux_5.10
+# cvi_mpi
+# cvi_alios
+# opensbi
+# osdrv
+# ramdisk
+# u-boot-2021.10
+# buildroot-2021.05
+# oss
+# cviruntime
+# cvikernel
+# cvimath
+# cvibuilder
+# cnpy
+# flatbuffers
+# install
+# tdl_sdk
+# ive
+# cvi_rtsp
+
