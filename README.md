@@ -2,9 +2,9 @@
 
 step1:
 ```
-git clone -b sg200x-evb git@github.com:sophgo/sophpi.git
-cd sophpi
-./scripts/repo_clone.sh --gitclone scripts/subtree.xml
+git clone -b master git@github.com:flyingcys/sophpi-sg200x-evb.git
+cd sophpi-sg200x-evb
+git clone git@github.com:sophgo/host-tools.git
 ```
 step2:
 ```
