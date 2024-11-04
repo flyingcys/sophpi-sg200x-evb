@@ -1,9 +1,10 @@
 # build
 # freertos
-# fsbl
+fsbl/build
 host-tools
 # isp_tuning
-# linux_5.10
+linux_5.10/build
+linux_5.10/Kconfiglib/__pycache__/
 # cvi_mpi
 # cvi_alios
 # opensbi
@@ -18,8 +19,38 @@ host-tools
 # cvibuilder
 # cnpy
 # flatbuffers
-# install
+install
 # tdl_sdk
 # ive
 # cvi_rtsp
-
+buildroot-2021.05/board/cvitek/CV181X/overlay/usr/share/
+cvi_mpi/modules/isp/common/toolJsonGenerator/pqtool_definition.json
+cvi_mpi/modules/isp/cv181x/isp-daemon2/src/cvi_pqtool_json.h
+osdrv/extdrv/tp/ts_gsl/ts_gslX680.ko
+osdrv/extdrv/tp/ts_gt9xx/gt9xx.ko
+osdrv/extdrv/wiegand-gpio/cvi_wiegand_gpio.ko
+osdrv/interdrv/base/cv181x_base.ko
+osdrv/interdrv/cif/cvi_mipi_rx.ko
+osdrv/interdrv/clock_cooling/cv181x_clock_cooling.ko
+osdrv/interdrv/cvi_vc_drv/cvi_vc_driver.ko
+osdrv/interdrv/dwa/cv181x_dwa.ko
+osdrv/interdrv/fast_image/cv181x_fast_image.ko
+osdrv/interdrv/fb/cvi_fb.ko
+osdrv/interdrv/ive/cv181x_ive.ko
+osdrv/interdrv/jpeg/cv181x_jpeg.ko
+osdrv/interdrv/mon/cv181x_mon.ko
+osdrv/interdrv/pwm/cv181x_pwm.ko
+osdrv/interdrv/rgn/cv181x_rgn.ko
+osdrv/interdrv/rtc/cv181x_rtc.ko
+osdrv/interdrv/rtos_cmdqu/cv181x_rtos_cmdqu.ko
+osdrv/interdrv/saradc/cv181x_saradc.ko
+osdrv/interdrv/snsr_i2c/snsr_i2c.ko
+osdrv/interdrv/sys/cv181x_sys.ko
+osdrv/interdrv/tpu/cv181x_tpu.ko
+osdrv/interdrv/vcodec/cv181x_vcodec.ko
+osdrv/interdrv/vi/cv181x_vi.ko
+osdrv/interdrv/vo/cv181x_mipi_tx.ko
+osdrv/interdrv/vo/cv181x_vo.ko
+osdrv/interdrv/vpss/cv181x_vpss.ko
+osdrv/interdrv/wdt/cv181x_wdt.ko
+osdrv/interdrv/wiegand/cvi_wiegand.ko
